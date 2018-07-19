@@ -46,7 +46,7 @@
     padding: 15% 0;
 }
 
- .school, .work, .skill, .newyork, .location{
+ .work, .skill, .newyork, .location{
     padding: 10%;
 }
 
@@ -334,12 +334,6 @@ a:hover{
   .experience p, .skillset p{
     font-size: 1.25rem;
   }
-  .school{
-    padding: 3% 5%;
-  }
-  .school p{
-    font-size: 1.5rem;
-  }
   .contact{
     margin: 10% 0;
   }
@@ -374,7 +368,7 @@ a:hover{
   #home p{
     font-size: 1.25rem;
   }
-  .school, .work, .skill{
+  .work, .skill{
     padding: 6% 1%;
   }
   .contact{
