@@ -298,6 +298,14 @@ a > i {
   margin-bottom: 20%;
 }
 
+#emailaddress {
+  display: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
 /*Media Queries*/
 
 /*Desktop*/
