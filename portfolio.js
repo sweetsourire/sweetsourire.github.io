@@ -76,7 +76,7 @@ $(document).ready(function () {
     sr.reveal('.newyork', {reset:true, duration: 500, delay: 700, scale: 0.9, mobile: true});
     sr.reveal('.work', {reset:true, duration: 500, delay: 400, scale: 0.9, mobile: true});
     sr.reveal('.btn-circle', {reset:true, duration: 500, delay: 400, scale: 2, mobile: true});
-    sr.reveal('#emailaddress', {reset:true, duration: 500, delay: 400, scale: 0.8, mobile: true})
+    sr.reveal('#emailaddress', {reset:true, duration: 500, delay: 800, scale: 1.3, mobile: true})
 
 })
 
