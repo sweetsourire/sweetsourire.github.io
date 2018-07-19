@@ -26,10 +26,6 @@
     outline: 1px solid black;
 }*/
 
-#education{
-    padding: 10% 0 15% 0;
-}
-
 #experience, #skillset{
     padding: 5% 0 10% 0;
 }
@@ -209,11 +205,6 @@ a > i {
     background: rgba(255, 255, 255, .3)
 }
 
-/*Education*/
-.education h3,.education h4,.education h5,.education p{
-    color: black;
-}
-
 /*Experience*/
 .experience h3,.experience h4,.experience h5,.experience p{
     color: white;
@@ -295,7 +286,7 @@ a > i {
 }
 
 #contact {
-  margin-bottom: 10%;
+  margin-bottom: 15%;
 }
 
 #emailaddress {
@@ -328,7 +319,7 @@ a:hover{
   #home .row{
     padding: 27% 0;
   }
-  #educationLink, #experienceLink, #skillsetLink, #contactLink{
+  #experienceLink, #skillsetLink, #contactLink{
     height: 50px;
   }
   .experience p, .skillset p{
@@ -345,9 +336,6 @@ a:hover{
   }
   h3{
     font-size: 2.2rem;
-  }
-  .education p{
-    font-size: 1.25rem;
   }
   .work, .skillset{
     padding: 3% 5%;
