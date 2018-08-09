@@ -11,7 +11,7 @@
     background: #222;
     transition: background 0.15s ease;    
  }
-/*Test*/
+ 
 #educationLink, #experienceLink, #skillsetLink, #contactLink{
   height: 100px;
 }
@@ -20,18 +20,12 @@
   height: 100px;
 }
 
-/*Overall Properties including Row*/
-
-/*.row div {
-    outline: 1px solid black;
-}*/
-
 #experience, #skillset{
     padding: 5% 0 10% 0;
 }
 
 #contact{
-  padding: 15% 0;
+  padding: 18% 0;
 }
 
 #page-content-wrapper{
@@ -326,7 +320,7 @@ a:hover{
     font-size: 1.25rem;
   }
   .contact{
-    margin: 10% 0;
+    margin: 15% 0;
   }
 }
 /*Large Mobile*/
@@ -341,7 +335,7 @@ a:hover{
     padding: 3% 5%;
   }
   .contact{
-    margin: 30% 0;
+    margin: 35% 0;
   }
 }
 /*Mobile*/
@@ -360,7 +354,7 @@ a:hover{
     padding: 6% 1%;
   }
   .contact{
-    margin: 2% 0;
+    margin: 4% 0;
   }
   .btn-primary{
     font-size: 1.2rem;
