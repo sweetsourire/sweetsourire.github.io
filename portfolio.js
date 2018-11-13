@@ -2,7 +2,7 @@ $(window).on("scroll touchmove", function() {
 
     // Change .home navbar css styles
     if ($(document).scrollTop() >= $("#home").position().top) {
-        $('body').css('background-color','#222');
+        $('body').css('background-color','#270000');
         $('#mainNav').css('background-color','rgba(255,255,255,0.5');
         $('#mainNav li a').css('color','black');
         $('#nav-1 a').css('color','black');
